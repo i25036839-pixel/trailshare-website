@@ -1,0 +1,14 @@
+TrailShare — Static Website QA
+Date: 2026-11-04
+
+Checks:
+index.html: 4 images; 0 forms; 0 videos; missing image files=0; broken local page links=0
+explore.html: 6 images; 0 forms; 0 videos; missing image files=0; broken local page links=0
+share.html: 1 images; 2 forms; 0 videos; missing image files=0; broken local page links=0
+guide.html: 1 images; 0 forms; 1 videos; missing image files=0; broken local page links=0
+
+Limitations: Browser rendering and actual user interactions could not be verified in this environment.
+No 3-participant usability study has been carried out.
+The embedded video depends on external availability and requires manual checking.
+Route accessibility, distance, duration and suitability require verification.
+All scenic images are illustrative, not documentary photography.
